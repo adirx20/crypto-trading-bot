@@ -1,0 +1,4 @@
+pandas==2.2.2
+python_dateutil==2.9.0.post0
+Requests==2.31.0
+websocket_client==1.8.0

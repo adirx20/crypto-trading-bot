@@ -1,0 +1,10 @@
+{
+  "binance": {
+    "api_key": "ENTER_API_KEY",
+    "secret_key": "ENTER_SECRET_KEY"
+  },
+  "bitmex": {
+    "api_key": "ENTER_API_KEY",
+    "secret_key": "ENTER_SECRET_KEY"
+  }
+}

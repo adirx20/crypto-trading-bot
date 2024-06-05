@@ -1,0 +1,5 @@
+phrase: KaioKen
+
+api key: wsZ6qpQAEqu1DRo3R9C5gJBitX6ATcCNZJGuAKsWk9ilOz1g5EqORldO5AXSE5Oi
+
+secret key: BIFGuaaejEggpXVYeGDkiFGfsXRPWRiRoku8xaC5oEQDrgMAqhdmY6tGUgshuqWi
